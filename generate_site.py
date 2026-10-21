@@ -67,6 +67,7 @@ import html
 import struct
 import sys
 import json
+import unicodedata
 from urllib.parse import quote
 
 # ============================================================
@@ -391,6 +392,8 @@ def rich(text):
 
 def url(path):
     """Encode un chemin relatif pour une URL (espaces, accents...)."""
+    # NFC : les accents sont encodés comme GitHub/le serveur stockent les noms de fichiers
+    path = unicodedata.normalize("NFC", path)
     return "/".join(quote(part) for part in path.replace("\\", "/").split("/"))
 
 
