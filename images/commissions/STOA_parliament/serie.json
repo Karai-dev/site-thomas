@@ -1,0 +1,18 @@
+{
+  "title": "STOA Summit",
+  "category": "commandes",
+  "tab": "pol",
+  "location": "Brussels, Belgium",
+  "year": "2025",
+  "description": [
+    "At the intersection of evidence-based research and European governance, the Panel for the Future of Science and Technology (STOA) brings together leading scientific minds, lawmakers, and policy experts inside the European Parliament.",
+    "Exploring critical frontiers—from artificial intelligence and energy sovereignty to academic freedom—this annual gathering serves as a vital bridge between technological breakthrough and democratic policy."
+  ],
+  "cover": "",
+  "cover_pos": "50% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}

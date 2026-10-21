@@ -1,0 +1,11 @@
+{
+  "title": "Ocean tales",
+  "category": "fine-art",
+  "location": "Madagascar",
+  "year": "2025",
+  "description": [
+    "Texte de présentation."
+  ],
+  "hero_pos": "100% 50%",
+  "wide": true
+}

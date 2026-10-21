@@ -1,0 +1,17 @@
+{
+  "title": "Le Relais de la Reine",
+  "category": "lifestyle",
+  "location": "Madagascar",
+  "year": "2025",
+  "description": [
+    "Elegantly integrated into the granite cliffs and flora of Isalo, Le Relais de la Reine blends architectural heritage with the serene luxury of Madagascar's high plateaus.",
+    "This series captures the effortless lifestyle within its stone-hewn walls—from the warm, quiet comfort of its rooms to its panoramic pool and serene facilities—offering an intimate refuge carved directly into the ancient wild."
+  ],
+  "cover": "2_Relais_Reine.jpg",
+  "cover_pos": "40% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}

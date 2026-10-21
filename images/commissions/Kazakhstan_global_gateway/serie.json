@@ -1,0 +1,19 @@
+{
+  "title": "EU Global Gateway",
+  "category": "commandes",
+  "tab": "inst",
+  "location": "Kazakhstan",
+  "year": "2025",
+  "description": [
+    "At the strategic heart of Eurasia, Kazakhstan serves as the central hub for the European Union’s Global Gateway strategy.", 
+    "Through major investments in the Trans-Caspian Transport Corridor—the Middle Corridor—and critical raw materials like lithium and green hydrogen, this initiative modernizes supply chains, accelerates the clean energy transition, and strengthens sustainable economic links between Central Asia and Europe.",
+    "A reportage for Instant News Services with Emilie Tricot."
+  ],
+  "cover": "",
+  "cover_pos": "50% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}

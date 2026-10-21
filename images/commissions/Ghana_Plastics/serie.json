@@ -1,0 +1,19 @@
+{
+  "title": "Navigating the Tide",
+  "category": "commandes",
+  "tab": "inst",
+  "location": "Ghana",
+  "year": "2022",
+  "description": [
+    "Ghana faces a critical junction in its environmental history, where millions of discarded water sachets and single-use plastics choke urban waterways, strain coastal ecosystems, and heighten flood risks.",
+    "Against this landscape of pollution, local entrepreneurs, community recyclers, and grassroots innovators are actively reshaping the narrative—turning a mounting waste crisis into a catalyst for sustainable, circular solutions.",
+    "Commissionned by Imageo for AFdB."
+  ],
+  "cover": "1_ghana.jpg",
+  "cover_pos": "50% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}
