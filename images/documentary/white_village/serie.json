@@ -1,0 +1,17 @@
+{
+  "title": "The White Village",
+  "category": "documentaire",
+  "location": "Madagascar",
+  "year": "2025",
+  "description": [
+    "Around a bend in a winding road in central Madagascar lies the small village of Soatanana, nicknamed the 'White Village.'", 
+    "Dressed in white year-round, the followers of the Lord’s Revival live there as a community, guided by their beliefs. They gather at church every Sunday, and the melodious hymns of their long service ring out. A place untouched by time."
+  ],
+  "cover": "",
+  "cover_pos": "50% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}
