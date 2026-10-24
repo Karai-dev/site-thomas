@@ -1,0 +1,19 @@
+{
+  "title": "MSF in Nigeria",
+  "category": "commandes",
+  "tab": "ong",
+  "location": "Northern Nigeria",
+  "year": "2023",
+  "description": [
+    "In Northern Nigeria—where high rates of malaria, severe acute malnutrition, and respiratory infections place immense pressure on local health facilities—access to quality care relies heavily on primary healthcare providers.",
+    "Through the MSF Academy for Healthcare, Médecins Sans Frontières works alongside local medical workers to strengthen healthcare from within. By combining interactive e-learning modules with direct, bedside clinical mentoring in local health centers, the initiative bridges theory and daily medical practice.",
+    "Focusing on outpatient care, infectious disease management, and maternal and child health, the MSF Academy equips frontline community health workers with the clinical skills, tools, and confidence required to deliver immediate, life-saving care to their own communities."
+  ],
+  "cover": "",
+  "cover_pos": "50% 50%",
+  "wide": false,
+  "hero": "",
+  "hero_pos": "",
+  "order": 1000,
+  "captions": {}
+}
